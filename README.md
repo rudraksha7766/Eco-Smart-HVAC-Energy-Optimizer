@@ -1,6 +1,6 @@
 # Eco-Smart-HVAC-Energy-Optimizer
 # 🍃 Eco-Logic: Human-Centric Thermal Intelligence System
-### *Registration No: 25BAI10635 | Course: Digital Literacy (AI/ML)*
+### *Registration No: 25BAI10635 | Course: Fundamentals of (AI/ML)*
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn)
@@ -61,7 +61,7 @@ To scale this project from a terminal script to a real-world product:
 
 ## 🎓 6. Academic Credits & Metadata
 * **University:** VIT Bhopal University
-* **School:** School of Computing Science and Engineering (SCSE)
+* **School:** School of Computing Science Engineering and Artificial Intelligence (SCAI)
 * **Specialization:** B.Tech CSE (Artificial Intelligence & Machine Learning)
 * **Submission Year:** 2026
 
